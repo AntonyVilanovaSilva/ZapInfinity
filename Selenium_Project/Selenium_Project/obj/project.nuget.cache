@@ -1,0 +1,52 @@
+{
+  "version": 2,
+  "dgSpecHash": "HAhvr8W7peh/ImuiZSVJZL4wA3Qz7vhCVV4FG92EBnp3JYc93HFH8XZiIdOK2BEj6ihTQ2BXzPAtAxP5iL1F4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alunos.conecta\\Documents\\GitHub\\ZapInfinity\\Selenium_Project\\Selenium_Project\\Selenium_Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alunos.conecta\\.nuget\\packages\\easy.automation\\1.0.0.12\\easy.automation.1.0.0.12.nupkg.sha512",
+    "C:\\Users\\alunos.conecta\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\alunos.conecta\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\alunos.conecta\\.nuget\\packages\\pdfbox\\1.1.1\\pdfbox.1.1.1.nupkg.sha512",
+    "C:\\Users\\alunos.conecta\\.nuget\\packages\\selenium.phantomjs.webdriver\\2.1.1\\selenium.phantomjs.webdriver.2.1.1.nupkg.sha512",
+    "C:\\Users\\alunos.conecta\\.nuget\\packages\\selenium.support\\3.8.0\\selenium.support.3.8.0.nupkg.sha512",
+    "C:\\Users\\alunos.conecta\\.nuget\\packages\\selenium.webdriver\\4.14.1\\selenium.webdriver.4.14.1.nupkg.sha512",
+    "C:\\Users\\alunos.conecta\\.nuget\\packages\\selenium.webdriver.chromedriver\\118.0.5993.7000\\selenium.webdriver.chromedriver.118.0.5993.7000.nupkg.sha512",
+    "C:\\Users\\alunos.conecta\\.nuget\\packages\\sikuli4net\\1.0.6\\sikuli4net.1.0.6.nupkg.sha512",
+    "C:\\Users\\alunos.conecta\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\alunos.conecta\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\alunos.conecta\\.nuget\\packages\\tesseract\\4.1.1\\tesseract.4.1.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'Easy.Automation 1.0.0.12' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' em vez da estrutura de destino do projeto 'net6.0-windows7.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "Easy.Automation",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'Pdfbox 1.1.1' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' em vez da estrutura de destino do projeto 'net6.0-windows7.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "Pdfbox",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'Sikuli4Net 1.0.6' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' em vez da estrutura de destino do projeto 'net6.0-windows7.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "Sikuli4Net",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
